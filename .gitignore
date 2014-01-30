@@ -1,0 +1,6 @@
+# Swap files
+*.sw[po]
+*~
+
+# Compiled files
+*.pyc
